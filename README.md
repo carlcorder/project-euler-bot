@@ -6,6 +6,8 @@
 
 ###### A Discord bot that retrieves random Project Euler problems from projecteuler.net
 
+</br>
+
 ## Add to Your Server
 ![invite-link](https://github.com/carlcorder/project-euler-bot/blob/master/img/invite-link.png)
 
@@ -27,9 +29,8 @@ cd project-euler-bot
 git push heroku master
 ```
 
-> Bring down the web dyno and start a service worker
-
 ```bash
+# stop web dyno and start a service worker
 heroku ps
 heroku ps:scale web=0
 heroku ps:scale worker=1
