@@ -10,7 +10,7 @@
 
 ![invite-link](https://github.com/carlcorder/project-euler-bot/blob/master/img/invite-link.png)
 
-#### Then simply mention `@Project Euler Bot` and he will fetch you a problem to work on!
+###### Then simply mention `@Project Euler Bot` and he will fetch you a problem to work on!
 
 ## Local Installation
 
