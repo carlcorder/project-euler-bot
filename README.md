@@ -6,6 +6,9 @@
 
 ###### A Discord bot that retrieves random Project Euler problems from projecteuler.net
 
+## Add to Your Server
+![invite]()
+
 ## Local Installation
 
 ```bash
