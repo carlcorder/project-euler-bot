@@ -8,7 +8,7 @@
 
 ## Add to Your Server
 
-![invite-link](https://github.com/carlcorder/project-euler-bot/blob/master/img/invite-link.png)
+[![invite-link](https://github.com/carlcorder/project-euler-bot/blob/master/img/invite-link.png)](https://discordapp.com/api/oauth2/authorize?client_id=454700906517364746&permissions=0&scope=bot)
 
 ###### Then simply mention `@Project Euler Bot` and he will fetch you a problem to work on!
 
