@@ -2,7 +2,7 @@
 
 ![leonhard-euler](https://github.com/carlcorder/project-euler-bot/blob/master/img/euler-portrait.jpg)
 
-A Discord bot that retrieves random Project Euler problems from projecteuler.net
+A Discord bot that retrieves random Project Euler problems from ![]()
 
 ## Installation
 
