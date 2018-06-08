@@ -7,7 +7,7 @@
 ###### A Discord bot that retrieves random Project Euler problems from projecteuler.net
 
 ## Add to Your Server
-![invite]()
+![invite-link](https://github.com/carlcorder/project-euler-bot/blob/master/img/invite-link.png)
 
 ## Local Installation
 
