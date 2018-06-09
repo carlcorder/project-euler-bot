@@ -1,2 +1,5 @@
 # dependencies
 node_modules/
+
+# config.json contains token
+config.json
